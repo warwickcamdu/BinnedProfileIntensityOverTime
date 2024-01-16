@@ -6,4 +6,4 @@ Users should open each image they wish to analyse in ImageJ, draw a line along t
 
 Users can then use these results to create colour-coded plots of intensity over time and space using the Matlab script (Binning_profile_intensity_time_course.m), which can create multiple plots when reading from the global Results folder in which the ImageJ macro results are saved.
 
-The Matlab script requires shadedE​rrorBar.m from the Matlab package "raacampbell/shadedE​rrorBar".
+The Matlab script requires shadedE​rrorBar.m from the Matlab package "raacampbell/shadedE​rrorBar": https://uk.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar
